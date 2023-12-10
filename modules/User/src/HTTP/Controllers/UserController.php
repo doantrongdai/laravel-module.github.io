@@ -16,3 +16,4 @@ class UserController extends Controller
         return view('User::detail', compact('id'));
     }
 }
+// Test
